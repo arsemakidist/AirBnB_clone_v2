@@ -7016,6 +7016,421 @@ INSERT INTO `places` VALUES
 
 	  ('b185aaeb-e4b2-4902-b912-7e24b434ebcd','2017-03-25 02:17:07','2017-03-25 02:17:07','30e56424-c0f0-4e36-9523-f5e904bb3142','f9b11370-f316-492c-92da-014d7bce7213','Great spot! '),
 
+('b1e50c83-ec07-46b7-a4b8-78f8f1bdb318','2017-03-25 02:17:07','2017-03-25 02:17:07','84f6227b-6c97-47ff-9ede-d4fbf4994d23','b6160096-c503-4909-a674-7bfbddc8cc45','Janna and Kendall\'s place is really wonderful.  So comfortable.  I plan to book with them again!'),
+
+  ('b21669fb-4888-4997-979a-ac44ddf663b4','2017-03-25 02:17:07','2017-03-25 02:17:07','552b5aaf-33b7-407b-a2dc-459ab730b3a5','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Annie is the ideal host! Anything you need is either already in the condo, or you could easily pick up from the Walmart around the corner or the Walgreens across the street. Annie was also quick with her replies, and if we had needed her for anything we wouldn\'t have hesitated to ask. Because it\'s downtown, street parking was a no-go, which left us to garage parking. If you played your cards right though, it would only be $8 overnight which was still way cheaper than what we had paid before at Waikiki. Make sure you get food before you head back in for the night as well, considering a majority of the places within walking distance close really early- like 6 pm. All in all, the place was super nice, comfortable, and luxurious, we felt safe the entire time and we would definitely stay there again! '),
+
+  ('b269ef4c-5c0c-415c-892d-6e301b121ed0','2017-03-25 02:17:07','2017-03-25 02:17:07','a16c7358-bf66-4802-8933-1616b5a322db','61302be9-4b31-4be0-92fc-d0dda253e167','what a great experience.  Quinn & Hayden were great.  their home was perfect for our needs and exactly as descirbed.  they were also willing to work with us and a few of our specific needs.  i won\'t even look for other AIRbnb\'s next time i\'m in napa, ill just go straight back to Quinn & Hayden.  Thanks!!!!'),
+
+  ('b304c98d-f959-47a4-b92e-4e3e7bac25a2','2017-03-25 02:17:07','2017-03-25 02:17:07','be13aa0e-8da7-4943-be05-5fd89f4d18e6','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Reeva was friendly and the room was fine. Only stayed one night and arrived late but all went well!<BR />'),
+
+  ('b315a08e-e78b-49ff-85ee-20bbd26a0fa2','2017-03-25 02:17:07','2017-03-25 02:17:07','279b355e-ff9a-4b85-8114-6db7ad2a4cd2','7771bbe9-92ab-46d1-a636-864526361d7d','Great place for our visit to Tulane. The walk to campus was an easy one.  The house was clean and well kept. The bed was especially comfortable. '),
+
+  ('b39cd939-e7e5-4e6f-8f45-83a7d04046ca','2017-03-25 02:17:07','2017-03-25 02:17:07','daa15c1b-9ca6-4042-85fd-bdb7a46d5862','150e591e-486b-48ee-be42-4aecba665020','This was a great place to stay! Located in a cool, walkable neighborhood. My only issue was the wireless internet would not connect with any of my devices. There is an Ethernet cable, but unfortunately none of my devices had a port, so it was not very helpful. I did end up exploring some nearby coffee shops as a result since this was a business trip. So this apartment would be ideal if you are looking to \"unplug\" for a little bit. '),
+
+  ('b3b161b0-9ce5-462c-99ff-7d1803d76039','2017-03-25 02:17:07','2017-03-25 02:17:07','4ae40c33-23c9-47a9-b867-0a6d8f25fd8c','7771bbe9-92ab-46d1-a636-864526361d7d','Awesome location! If you\'re ever in Waikiki stay here! You can walk everywhere!!!! The views from the unit are amazing. '),
+
+  ('b409a961-878c-42df-9cda-aef4392e8308','2017-03-25 02:17:07','2017-03-25 02:17:07','4316efa3-0fb1-4aad-87c0-43ef8d3c0376','f9b11370-f316-492c-92da-014d7bce7213','This was my first airbnb experience, and it was an excellent one. My boyfriend and I came here for a laid back anniversary weekend. The setting was lovely and the wine and chocolate was a great touch. The kitchen area was greatly appreciated, as we prefer to be able to cook our breakfasts. The kitchen was nicely stocked with a few pans and even spices (though we brought our own). We did not see the host, however we did see some of the other guests that were staying in different rooms. We were able to come and go as we pleased. The only notable discrepancy I had was the plumbing. The shower would sometimes shut off while in use. It\'s a \'cabin\' of sorts so these types of things are to be expected I feel, so it didn\'t bother me too much. '),
+
+  ('b44b2000-fae1-45a7-99df-62555b9d2524','2017-03-25 02:17:07','2017-03-25 02:17:07','31568a3f-d5b1-47d1-b2ee-74339059e3a0','70b18dcc-08ef-4040-91cf-4075973d320a','The cottage is just as it is pictured. If you are looking for a place to step back in time and relax and do some front porch sitting or spend time with your loved ones, this place is fantastic. <BR />Sharon is very reachable and available to answer any questions.'),
+
+  ('b455e0e4-1a3d-4190-b525-941c3add628d','2017-03-25 02:17:07','2017-03-25 02:17:07','7b8ecd06-c520-4adc-b2e4-bfaa7f8bab2e','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Great place to stay! Very clean and comfy. '),
+
+  ('b4a5cda2-961d-48a8-9b63-2de5cb8a13a1','2017-03-25 02:17:07','2017-03-25 02:17:07','6ebec357-8589-435b-a5cb-fcd99b638fae','00e93fc3-53ff-4da4-8e72-faa5216f81bb','Elisa was an amazing host, the room was immaculate and very private, I felt right at home. I can\'t say enough about this experience, she though about everything and went above and beyond. \n<BR />Truly amazing! '),
+
+  ('b577df3f-eca8-497e-a95a-bab815fc5860','2017-03-25 02:17:07','2017-03-25 02:17:07','695c0586-3345-4b15-bcf7-f5ecbae258e1','61302be9-4b31-4be0-92fc-d0dda253e167','We really enjoyed our stay at Veronica\'s space! We arrived at around midnight and found the place without any problem, thanks to the direction that she provided. The bedroom and bathroom was newly renovated, modern, and very clean. We stayed for 3 nights to visit the Universal Studio, and it was easy to get there using app-based transportation. There\'s also bus stops right in front of the apartment complex, but we haven\'t got a chance to try it. Such a great value for what we pay! Thank you Veronica!'),
+
+  ('b5786b1f-b980-4224-a397-8a51f77d0858','2017-03-25 02:17:07','2017-03-25 02:17:07','98b1678d-d25c-476a-b6c3-c11978617e90','61302be9-4b31-4be0-92fc-d0dda253e167','Great stay'),
+
+  ('b6648cc9-314f-4ed2-ad47-613a0ea1eacc','2017-03-25 02:17:07','2017-03-25 02:17:07','30e56424-c0f0-4e36-9523-f5e904bb3142','5e181cc6-cac7-49e9-a7a1-3095b0f9010b','Tom and Judy were wonderful hosts! The silver cloud is a perfect place for a couple. They also have a couple additional units within their house! The chicken coop in back, covered seating area, and their sweet cat Jax really added to the experience. Definitely recommend and will be back soon! <BR />'),
+
+  ('b72b2fcf-0dc9-4aef-b2f0-733f3aee7f10','2017-03-25 02:17:07','2017-03-25 02:17:07','84f6227b-6c97-47ff-9ede-d4fbf4994d23','3fda0d5c-fea4-4920-bc91-6e6c6663d161','We really enjoyed our stay! We appreciated how quiet and cozy the cottage was. It was the perfect place to recharge before enjoying all that Eugene has to offer. The hosts were very responsive and helpful.'),
+
+  ('b7383172-b0d3-4317-a4e7-b8d8dc06370d','2017-03-25 02:17:07','2017-03-25 02:17:07','98b1678d-d25c-476a-b6c3-c11978617e90','b6160096-c503-4909-a674-7bfbddc8cc45','Staying with Chris was a great experience. He was flexible and communicative. '),
+
+  ('b7643adf-91e3-4a87-986d-1146c4362045','2017-03-25 02:17:07','2017-03-25 02:17:07','b4d6d884-e50d-41eb-9b97-6395a07a43f9','9eec6c06-5918-4867-833a-face490d4715','This place is a great option next time you are staying in Napa. The hosts are friendly, knowledgeable, and recommended one of the best breakfast dinners ever. The room is comfy, clean, and a great attention to detail. They even have a flashlight next to the bed for emergencies. It was a great stay and we would definitely stay again.'),
+
+  ('b7a56042-8f80-453d-b8c9-94e3903aa65c','2017-03-25 02:17:07','2017-03-25 02:17:07','207f5bf6-d1de-4cca-a60d-c2c48e93debc','9e7b2291-3bff-43b9-9241-8ff685e7a6dd','It was a great place to stay. Lots of room and Jim was very nice. Would stay here again without even thinking about it. '),
+
+  ('b80530d3-6c71-4b6d-ab36-4f8e791fbc6e','2017-03-25 02:17:07','2017-03-25 02:17:07','859a8a8f-9423-4bf6-b471-d9a7f39c9c2c','7231eaa1-400f-4cb5-a867-f5eba8adbb81','Great hosts. Made our trip easy!'),
+
+ ('b8e06e6a-a188-4230-bb02-d2df58ae83dc','2017-03-25 02:17:07','2017-03-25 02:17:07','dbdc349b-a195-474f-9856-dbe01d08c331','85651506-c13c-4c2f-9c79-8fbebc048e39','Very accommodating host, room and amenities were clean and functional, would definitely stay again. '),
+
+  ('b9593356-7fc6-4a30-96c4-30683557dece','2017-03-25 02:17:07','2017-03-25 02:17:07','7ed82a23-cd4f-437b-be12-9c54e84281ef','887dcd8d-d5ee-48de-9626-73ff4ea732fa','I can\'t say enough about this property. My husband and I are frequent airbnbers but only after in-depth study of our needs and hosts offers do I request a booking. Because of this careful matching I usually do tend to come away with favorable reviews.  However, Lynn\'s home surpassed all our expectations in every category. \n<BR />\n<BR />Rather than the 2-bedroom I\'d expected, there were actually 3-bedrooms, so perhaps a prior study has been converted, not sure. But all 3 bedrooms were comfortably decorated. The location was in a great part of town at the end of the drive.  A beautiful, thick wooded area looms beyond the back patio and expansive yard. Having left my TX home in a drought w/threat of wildfires, I was most excited on the evenings I could leave the window raised by my bedside to hear the rain and night sounds.\n<BR />\n<BR />The house was exceptionally clean and had every house appliance, spice, etc you could ever need. In fact, we found several items recently purchased in fridge and counter top '),
+
+  ('b9ce1c05-d100-4fe9-8c06-b50f3b8cb7e6','2017-03-25 02:17:07','2017-03-25 02:17:07','d37d7e5a-d186-45a0-a190-c065ff5922e8','df668e22-e344-4c89-a050-e5ad211cbaa6','Denise\'s place was charming.  It was like a BandB. Everything that was needed was supplied.  Her neighbor was friendly and helpful.  We didn\'t meet Denise as she was having fun in the Canary Islands. :)  She left great instructions and responded quickly to any questions.  Alice was there to take care of anything that needed the personal touch.  There were videos, internet, books, games, toys, extra linen, bathroom essentials. It was decorated in a bright cheerful whimsical style.  Bisbee is a fun town to visit and this place is priced great!'),
+
+  ('b9e70de7-c11f-40dd-823f-bf0eecab1c59','2017-03-25 02:17:07','2017-03-25 02:17:07','4316efa3-0fb1-4aad-87c0-43ef8d3c0376','00e93fc3-53ff-4da4-8e72-faa5216f81bb','It was a cool place. Had a nice kitchen and easy parking on the street. '),
+
+  ('ba2023bd-0ac1-4a69-bf49-8faaa4ca1669','2017-03-25 02:17:07','2017-03-25 02:17:07','e990e07f-1b6f-4bc5-a553-ddddad30211b','00e93fc3-53ff-4da4-8e72-faa5216f81bb','Wonderful home that really helped make our trip. Especially enjoyed the porch! '),
+
+  ('ba2e63d4-edcb-40d9-bc6c-c59bb80dcf2c','2017-03-25 02:17:07','2017-03-25 02:17:07','96fcc267-3257-4260-a264-b3d80639b7c9','00a11245-12fa-436e-9ccc-967417f8c30a','Susan is so thoughtful and accommodating that guests are made to feel welcome and at home. I would definitely recommend her house to fellow travelers. '),
+
+  ('ba31fec1-a877-47cc-bac5-82eb5a8bfec7','2017-03-25 02:17:07','2017-03-25 02:17:07','df2548db-377d-422e-b805-4e8e0c794302','7231eaa1-400f-4cb5-a867-f5eba8adbb81','Kevin is an awesome host. He is very accommodating and also has stuff ready for his guests to eat and drink. The welcome packet was a nice touch, especially for a first time airbnb user like myself. The view is unbelievable as well. I really recommend his place!'),
+
+  ('ba8cc010-8a31-4bfe-8cff-97eeefb1cb3b','2017-03-25 02:17:07','2017-03-25 02:17:07','b33cae89-fe4f-4c6e-a1c5-0022450f2bf2','426624f6-84a9-4ec4-84f3-7655dc70e86e','Great place near Honolulu and Ko-Olina. Right next to the beach. Quiet residential neighborhood. Very thoughtful hosts, espcrially appreciated the cold water and beer in the fridge. Highly recommended to those who want to be away from the typical resort experience.'),
+
+  ('bb4d9640-68a7-4ecf-ba6f-58188fdf3a37','2017-03-25 02:17:07','2017-03-25 02:17:07','dbdc349b-a195-474f-9856-dbe01d08c331','b6160096-c503-4909-a674-7bfbddc8cc45','Jimmy was a wonderful host and the place was comfortable and very close to public transport. '),
+
+  ('bb5da52c-3936-473d-8d19-efebc743eade','2017-03-25 02:17:07','2017-03-25 02:17:07','60b77ea7-04c9-4b8a-b835-dc92c6aa196b','00e93fc3-53ff-4da4-8e72-faa5216f81bb','What a lovely little spot in the world! Perfect location shops, restaurants and beach all with in walking distance. Private and homely feeling with extra touches such as bikes, snorkel and beach gear all provided. Josey\'s handy guide book is also very helpful.'),
+
+  ('bbdb646a-3dc5-4ccf-b175-c96b3e1384d5','2017-03-25 02:17:07','2017-03-25 02:17:07','328bd785-a91b-424c-afda-9e08e5155cfe','426624f6-84a9-4ec4-84f3-7655dc70e86e','This is our 3rd or 4th time staying at at Bryan\'s place, so obviously we think it\'s great. Also, we found a new great burger place near the location (curbside burger) - it was awesome! '),
+
+  ('bc155a0f-3076-4d84-addc-bb6ff52b42de','2017-03-25 02:17:07','2017-03-25 02:17:07','b6ea25aa-f298-4f24-bc8c-526439f254d5','5e181cc6-cac7-49e9-a7a1-3095b0f9010b','Great little gem in the Windy City! House is decievingly large! Lots of space to stretch out. Definitely feels like home. '),
+
+  ('bc2461cf-ce95-41f2-a8ef-b03cefff2be3','2017-03-25 02:17:07','2017-03-25 02:17:07','598218ba-5069-450d-afe1-1e3212c378d4','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Berry & Megan are one of the best Airbnb hosts by far during my booking, stay, and communication. I look forward to future visits!'),
+
+  ('bcc23ff3-aa7c-4013-b36a-535e8e179cea','2017-03-25 02:17:07','2017-03-25 02:17:07','453b0b1c-6bf3-4e94-8265-082ef06ab85f','f33e2624-520b-4bc2-b6a0-190ee1d41855','This cottage is great. Well furnished and extremely clean. Great communication with the owners throughout the whole booking process to check in and check out.<BR />Thy even provided some snacks and breakfast items, which was great. I highly recommend this little cottage.  '),
+
+  ('bd4c04f2-ab7e-4f8f-80ce-45d041f6fa32','2017-03-25 02:17:07','2017-03-25 02:17:07','47b9ca37-915d-405d-861d-7dbf74559441','426624f6-84a9-4ec4-84f3-7655dc70e86e','Carmenita\'s house was tucked away into such a sweet neighborhood. She was perfect with communicating, warm and so friendly and open. Her space was extremely clean, comfortable and private. I hope when I return to Birmingham I can return to her house. I felt like I was with family. Thank you Carmenita! '),
+
+  ('bd660157-68ea-4b27-8b5e-4a4087e34d87','2017-03-25 02:17:07','2017-03-25 02:17:07','3290a4ef-4241-4fa5-843e-87926c74e384','61302be9-4b31-4be0-92fc-d0dda253e167','We needed a place to stay for a quick trip and Carlos was great at communicating with us about our very late check-in time. The neighborhood is amazing and in a very convenient location and we were able to find the house easily as the lights were left on for us. We didn\'t have time to meet Carlos or Beia but we had a very comfortable stay. I would recommend staying here.'),
+
+  ('bde66dc5-3e42-4493-aded-246c92526147','2017-03-25 02:17:07','2017-03-25 02:17:07','453b0b1c-6bf3-4e94-8265-082ef06ab85f','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','I absolutely loved my stay here. Bruce was very friendly and the cottage was perfect. I couldn\'t have asked for a better stay. It was so peaceful and the bed was extremely comfy!'),
+
+ ('be39546a-d4ef-4870-acea-500ac27bead1','2017-03-25 02:17:07','2017-03-25 02:17:07','52d726db-2427-40ca-a5f0-d5c117625d1c','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','This place was spectacular. Easy walking distance to southern end of downtown Napa. Ample parking near the home if you needed to drive. The home itself is nestled in the back end of the property and so very quiet. Also since it\'s almost brand new, sound proofing and current design specs make the house very well thought-out in terms of features and amenities. I\'m definitely considering staying here again when I come to Napa for the weekend. Mahalo Jay and Jessica for being such awesome guests with such a lovely little cottage. '),
+
+  ('bee661d0-b53e-4e8b-bc3b-a27d6298d080','2017-03-25 02:17:07','2017-03-25 02:17:07','cb681375-76ad-41d4-ac03-7fe74df9aed3','150e591e-486b-48ee-be42-4aecba665020','Beachwalk Bungalow was an ideal place for our trip to Oahu. Michelle and John were excellent hosts. The location was a quick walk to the beach, as well as other restaurants and shops. The Bungalow had all the amenities you would need (coffee maker, towels, beach chairs and even a baby crib). Kailua is definitely a great laid back town!'),
+
+  ('bf6bda2c-1c72-44fe-8fab-7754824cf4f8','2017-03-25 02:17:07','2017-03-25 02:17:07','d991f849-0f2f-41cb-b6d7-41feee6bc943','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','It was a good trip '),
+
+  ('bf7f6758-190e-4d2c-b3d9-c64b32f6d25e','2017-03-25 02:17:07','2017-03-25 02:17:07','ad124633-a610-483f-862a-6f54dda19c6e','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','I\'ve stayed here twice.  Solid location, comfortable, friendly hosts.'),
+
+  ('bff75b8e-e4cf-4400-90ea-3d0ac0819058','2017-03-25 02:17:07','2017-03-25 02:17:07','8835ba11-7757-45c6-9138-f7e2e4b5f80f','df668e22-e344-4c89-a050-e5ad211cbaa6','Jordan\'s place was exactly what I was looking for in my stay in Kailua. Having a bicycle was great for getting around town.'),
+
+  ('c0311a61-4337-4c33-a9d9-b7a139afeb16','2017-03-25 02:17:07','2017-03-25 02:17:07','38e38612-a626-47a9-a699-05efa178e155','30a890e4-a62c-44f9-abc0-07e2c74021da',' War ok<BR />'),
+
+  ('c10068e3-c90e-4be8-aaf3-74756f877ed3','2017-03-25 02:17:07','2017-03-25 02:17:07','c29b5191-ac68-4e9b-a68f-aa42ea1dcb01','887dcd8d-d5ee-48de-9626-73ff4ea732fa','This place is enjoyably eclectic with the owner\'s art adorning the walls. The house was clean and the bed was comfortable. The location is close to good eating and a variety of clubs in downtown Lafayette. I was in town for a travel seminar after which I walked the few blocks to a really cool beer garden. This place is a gem!'),
+
+  ('c102485d-59a0-4a3d-814b-ef0335fb8e1d','2017-03-25 02:17:07','2017-03-25 02:17:07','9c7d3ecd-9592-4910-bd04-91c59e8350f1','8394fd35-8a8a-479f-a398-48f53b4a6554','Very cute cottage off of a main house in downtown Tupelo. Great location if you want to be near to the downtown and arena. '),
+
+  ('c13c8f6a-d86e-451a-925e-93cd7c8ed9d0','2017-03-25 02:17:07','2017-03-25 02:17:07','817bcb43-ba39-4925-aed6-76be4bed946b','f9b11370-f316-492c-92da-014d7bce7213','JJs place did the job. He\'s a great communicator and we had no issues with the reservation, finding the place or getting in. Warm and cozy room, right next to the bathroom. 10/10 would recommend.'),
+
+  ('c18dfc28-d7d4-48b5-a789-694fd80eefc1','2017-03-25 02:17:07','2017-03-25 02:17:07','38f1bc75-713e-4f09-b02f-d26a4c43ac63','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','It\'s always a pleasure to stay at this house.'),
+
+  ('c2334a6d-801b-4d04-828d-da93960540e5','2017-03-25 02:17:07','2017-03-25 02:17:07','453b0b1c-6bf3-4e94-8265-082ef06ab85f','30a890e4-a62c-44f9-abc0-07e2c74021da','Wonderful experience. Would highly recommend. '),
+
+  ('c23df279-1d36-4b0f-81f7-fbb9a51c68af','2017-03-25 02:17:07','2017-03-25 02:17:07','921cd471-9e69-4214-a1f0-014a0a378327','9e7b2291-3bff-43b9-9241-8ff685e7a6dd','Will definitely keep this option in mind for the next trip to the area.'),
+
+  ('c2791d90-4c55-4d32-b821-7ec07819a4a0','2017-03-25 02:17:07','2017-03-25 02:17:07','e58517c1-3214-465f-a982-78208a3266c0','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','Great homey place!  We will come again!'),
+
+  ('c32c330b-87d1-4b86-9b06-4d1ff77c9aaf','2017-03-25 02:17:07','2017-03-25 02:17:07','9c7d3ecd-9592-4910-bd04-91c59e8350f1','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','Quaint little pool house in a quiet, historic neighborhood. Very close to restaurants and shopping. Chris was responsive to messages and made sure we had an enjoyable stay!'),
+
+  ('c35f29e3-c808-4eb7-97b4-b4af1a5aaca6','2017-03-25 02:17:07','2017-03-25 02:17:07','bcda6018-7286-4d8c-abfa-dda1026adf88','426624f6-84a9-4ec4-84f3-7655dc70e86e','The cottage was a perfect hidden gem! Half-way between Sonoma Plaza and Glen Ellen, the location was great! We appreciated that the home was tucked away from the street providing some privacy. Winnie provided great local recommendations and the home is exactly as pictured and described. We would definitely recommend it to friends!'),
+
+  ('c38e224a-1bf9-4ccd-a521-dcc8a1631283','2017-03-25 02:17:07','2017-03-25 02:17:07','3c702a05-81f1-450e-b07f-386ae8a3b124','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Great location very convenient location close to the heart of Downtown Napa'),
+
+  ('c4173657-5395-4c84-b0e5-de4ef984d9db','2017-03-25 02:17:07','2017-03-25 02:17:07','598218ba-5069-450d-afe1-1e3212c378d4','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Both Berry and Megan are nice, friendly people. Their home is absolutely lovely and we had a very comfortable stay.'),
+
+  ('c4580172-13c1-46e2-91e0-f904348f4cf4','2017-03-25 02:17:07','2017-03-25 02:17:07','31568a3f-d5b1-47d1-b2ee-74339059e3a0','b6160096-c503-4909-a674-7bfbddc8cc45','This is a great house in a really quiet location and it is immaculately maintained! The owners are awesome and extraordinarily easy to work with! '),
+
+  ('c4f94a70-f62e-4348-b6fc-e813903c4297','2017-03-25 02:17:07','2017-03-25 02:17:07','6d24beec-f296-473c-a34a-4dd9aab8a780','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','This place is great. Comfortable bed, lots of windows made it bright, sunny, and cheerful. The apartment is very clean and the shower always had hot water. It is a great find!'),
+
+  ('c6283f9c-345f-410c-897a-4d9ed343fce1','2017-03-25 02:17:07','2017-03-25 02:17:07','645127dd-38b4-4fad-9950-57b3ce0a5301','d622edfa-fc35-4732-b5ec-a15d794267ec','This place has great. Cameron was a super gracious host and the room was nice and quaint. This is a gem stay for Champaign-Urbana, ESPECIALLY if you are catching a show at Canopy Club as it is a quick 7 minute walk.'),
+
+ ('c68c193a-f9eb-49ca-bbca-013f8817ecf6','2017-03-25 02:17:07','2017-03-25 02:17:07','b2c8a4cd-6e80-48c3-a1fc-07f129ee2875','426624f6-84a9-4ec4-84f3-7655dc70e86e','Love it, it is home away from home'),
+
+  ('c834a169-f19d-4595-88ea-407486c441a6','2017-03-25 02:17:07','2017-03-25 02:17:07','84f6227b-6c97-47ff-9ede-d4fbf4994d23','5e181cc6-cac7-49e9-a7a1-3095b0f9010b','Super clean and a great value!  Janna & Kendall gave us all the privacy we needed - we\'d stay there again.'),
+
+  ('c855a496-d157-4b33-9830-80bf1d80099d','2017-03-25 02:17:07','2017-03-25 02:17:07','4703b2d8-e417-4243-a6f3-044fc06f020e','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Had a wonderful time even though I spent most of my time sleeping due to work! The bed and comforter were very comfortable which made it difficult to get out of bed every morning! Amelia was very welcoming and a great host. '),
+
+  ('c86543e4-062e-47fa-a767-fc6ff17aeb01','2017-03-25 02:17:07','2017-03-25 02:17:07','7a958fb6-a203-441c-9f8f-3440523fed14','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','The host canceled this reservation 44 days before arrival. This is an automated posting.'),
+
+  ('c865cec7-9e40-4f29-9687-992f34ebfbaa','2017-03-25 02:17:07','2017-03-25 02:17:07','d991f849-0f2f-41cb-b6d7-41feee6bc943','f9b11370-f316-492c-92da-014d7bce7213','Parking was not great limited space.  '),
+
+  ('c86edab4-a60e-4075-8fc6-408739d5d0e5','2017-03-25 02:17:07','2017-03-25 02:17:07','ffcc9c22-759e-4418-b788-81eda89c2865','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','I recommend this place a lot! The bed is wonderful and the hosts are super nice and easy going! They making you feel like home right away! A quiet area for being in a great location in New Orleans :D totally awesome '),
+
+  ('c8855762-7d62-40ec-8f48-b6c531143a35','2017-03-25 02:17:07','2017-03-25 02:17:07','eb3c3877-39bc-4de3-8fc3-4f3895c5b2ba','426624f6-84a9-4ec4-84f3-7655dc70e86e','Emily was a great host! She was very accommodating and always prompt to answer any questions we had. Thank you for making us feel right at home! Look forward to staying again in the future!'),
+
+  ('c89b3636-393e-46df-81ad-1469ed364000','2017-03-25 02:17:07','2017-03-25 02:17:07','d27f17eb-3ddd-44c0-9e8a-f3c21d933b3b','b6160096-c503-4909-a674-7bfbddc8cc45','We had a great stay at Sandra\'s and Val\'s place. They\'re great hosts. Everything was very clean and nice. It was easy to get to the Universal Studios from there. I can just recommend to stay there. Thanks Sandra & Val for the great stay! '),
+
+  ('c8c844e2-bc3f-4f55-8b87-7051c7880036','2017-03-25 02:17:07','2017-03-25 02:17:07','3c7eb6bc-a146-4186-bfbf-9de857286e68','7231eaa1-400f-4cb5-a867-f5eba8adbb81','Bisbee and the night at Naomi and Frank\'s was the serendipitous high-light of our Arizona trip.  We were driving for home in NM and stopped in Tombstone (interesting, kitchsy, don\'t need to do it again) and on the advice of our tour guide decided to swing into Bisbee.  <BR /><BR />Boy, are we glad we did.  We will come back.  <BR /><BR />Some Airbnb research yielded Naomi and Franks place.  Had everything we were looking for and some we didn\'t know about.  <BR /><BR />Space for three, wi-fi, a beautiful Bisbee view.  <BR /><BR />What we didn\'t know was how great it was that it had convenient off street parking. <BR /><BR />Naomi called just minutes after our booking went through and gave us check-in information.  <BR /><BR />Frank met us at the turn in to the house and escorted us to their lovely space.  <BR /><BR />The place was just perfect.  Well furnished, spotlessly clean. Beds comfortable (with extra pillows that we appreciate).'),
+
+  ('c8e07ad6-da02-46a7-9d3f-cd11dee25965','2017-03-25 02:17:07','2017-03-25 02:17:07','acd9cdca-855e-484b-baf9-ffda99d945f2','7231eaa1-400f-4cb5-a867-f5eba8adbb81','The house was amazing! We arrived later than expected but I was able to get in the house with just a code. Cindy and don were very helpful and I will definitely make this trip happen again. '),
+
+  ('ca018781-aaa7-48e1-a03c-be521311d8c8','2017-03-25 02:17:07','2017-03-25 02:17:07','7a958fb6-a203-441c-9f8f-3440523fed14','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Good location to mass transit, affordable'),
+
+  ('ca72c975-f4b1-4960-a331-326fc49ed42e','2017-03-25 02:17:07','2017-03-25 02:17:07','b33cae89-fe4f-4c6e-a1c5-0022450f2bf2','b6160096-c503-4909-a674-7bfbddc8cc45','Michelle\'s place was excellent. The location is in a local area without the tourist noise. The beach you have access to is perfect for watching the sunrise or a quick swim. Michelle herself is very friendly and clearly takes pride in being an Airbnb host. Lots of little extras are available in the space (water, snacks coal for the BBQ etc), we really enjoyed the banana pancake mix provided :)<BR /><BR />So glad we stayed and got to experience a quiet local neighborhood! Highly recommended!'),
+
+  ('cb4b40c3-b6bc-44d8-8331-c9a3d7c7a77c','2017-03-25 02:17:07','2017-03-25 02:17:07','be13aa0e-8da7-4943-be05-5fd89f4d18e6','7771bbe9-92ab-46d1-a636-864526361d7d','Very welcoming and good communication. Good place to just come and rest.'),
+
+  ('cc627078-548e-43c8-b0b4-78d5f0c05b45','2017-03-25 02:17:07','2017-03-25 02:17:07','e6c33577-5de3-4481-9147-47ef4710b986','85651506-c13c-4c2f-9c79-8fbebc048e39','Joanna and family were terrific hosts - they made us feel right at home! Mahalo!'),
+
+  ('cd05876a-b853-4d67-a060-01738a10d93c','2017-03-25 02:17:07','2017-03-25 02:17:07','02d9a2b5-7dca-423f-8406-707bc76abf7e','426624f6-84a9-4ec4-84f3-7655dc70e86e','My boyfriend and I had a wonderful stay at Irene\'s place. Her house is so uniquely beautiful and she makes you feel right at home as soon as you walk through the door. Her house was clean, tidy, filled with art, equipped with comfortable beds and couches, and she even provides a delicious breakfast for you in the morning. We are already looking forward to planning a trip back!'),
+
+  ('cd5d8465-f19e-42db-b9d2-66910f4083b6','2017-03-25 02:17:07','2017-03-25 02:17:07','9684e0c7-0f21-4a00-9334-1a974e13dbc3','91e27a07-1f47-43c9-b851-60c6882abcd3','The super quaint vintage Airstream was a lot of fun to stay in and way bigger than I expected (Two of us comfortably stayed here). If the weather is good be sure to open the windows and enjoy the fresh air (They and the door have bug screens!). The local beer in the fridge was a nice touch! The location is super close to downtown and easy to get about Lafayette. BUT the biggest asset here is our host, Jason. He is friendly, helpful, very responsive, and overall a fantastic host. He also knows the city quite well if you need a recommendation, is a professional photog, and a musician (He\'s probably got more skills but we were only there two nights). All in all, a very positive experience/trip.'),
+
+  ('cd66bb7c-0539-4740-94b7-528115a151dd','2017-03-25 02:17:07','2017-03-25 02:17:07','a16c7358-bf66-4802-8933-1616b5a322db','426624f6-84a9-4ec4-84f3-7655dc70e86e','Great little spot for 1-2 people in Napa! Cozy studio was clean and looked just like the photos. It\'s tiny but just what you need for a weekend in Napa! The hosts were great and left a bottle of wine which was wonderful upon arrival. '),
+
+  ('cd76125f-f66e-4f31-9c01-b92f0e6a7297','2017-03-25 02:17:07','2017-03-25 02:17:07','f19fa153-154e-440b-9f4b-debee403b0d2','887dcd8d-d5ee-48de-9626-73ff4ea732fa','Wonderful experience staying here! Her home was beautifully decorated and i especially loved her bathroom! We will definitely be back if we are back in chicago again soon. '),
+
+  ('cdebafc1-7837-4aa5-8a4f-0e53dd44b34e','2017-03-25 02:17:07','2017-03-25 02:17:07','dce54621-9083-4cd9-9335-a9e8861289d8','b6160096-c503-4909-a674-7bfbddc8cc45','It is an easy place, if you want to be close to the central area and you need only a small Uber to go everywhere. The price was my main reason. to choose. It was really clean the room and I would go there again.'),
+
+  ('cedc6b48-f999-49ba-b920-a6c38ac309f6','2017-03-25 02:17:07','2017-03-25 02:17:07','1ff1963c-7afa-470c-bc05-562b01549b09','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Everything was great. Was super happy when I walked in. Was pleasantly surprised. It was my first time using Air B&B and I loved it '),
+
+  ('cf2a6e51-61ab-49ba-a548-c1691bd24379','2017-03-25 02:17:07','2017-03-25 02:17:07','5463e312-5bf4-4764-8c06-e97c5548f712','61302be9-4b31-4be0-92fc-d0dda253e167','Megan and her husband have a beautiful house in a quiet and peaceful neighborhood. The suit is very clean and cozy. They provide coffee/tea and lots of snacks. '),
+
+  ('cf8f3d85-4286-43f5-9dce-6a7071df7aee','2017-03-25 02:17:07','2017-03-25 02:17:07','30e56424-c0f0-4e36-9523-f5e904bb3142','b6160096-c503-4909-a674-7bfbddc8cc45','The Silver Cloud was a cozy, clean, and comfortable stay in Napa! Tom and Judy were great hosts providing a light breakfast and suggestions for dinner! '),
+
+  ('cf9ef573-dd37-4a4e-9b14-02f3bfea0e3d','2017-03-25 02:17:07','2017-03-25 02:17:07','1385324e-d727-475c-ad30-f7dcb5afea02','fa44780d-ac48-41ab-9dd0-ac54a15755cf','The place was great and the hosts were very thorough to make sure we had everything we needed.'),
+
+ ('d0f7375a-33ee-4a47-a4a8-6ea831d36915','2017-03-25 02:17:07','2017-03-25 02:17:07','be89d2ce-231e-4205-a8c1-e6bcf5990302','9eec6c06-5918-4867-833a-face490d4715','The room was cozy and comfortable, in a quiet neighborhood near the light rail. Sequoia was friendly and helpful too! Definitely a great spot with a good value. '),
+
+  ('d1c4cf43-23c5-4eaf-a1b5-9a6bed1777fb','2017-03-25 02:17:07','2017-03-25 02:17:07','ef3f56b8-c024-471e-b7ba-be1a72c6cbec','f9b11370-f316-492c-92da-014d7bce7213','Good location.  Near the University, Mill Street and freeways to get anywhere quickly'),
+
+  ('d2719c31-5aa3-4e56-b31d-ebc9864842ad','2017-03-25 02:17:07','2017-03-25 02:17:07','d37d7e5a-d186-45a0-a190-c065ff5922e8','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Chill vibe, perfect for pets, great entertainment options (hulu, nextflix, amazon prime, pandora), strong internet, wonderful hot showers, comfortable bed, 2 fenced yards, lots of parking, great laundry service and neighbors (thanks linda!), well maintained and appointed space, charming.'),
+
+  ('d27c40f1-ee07-4d28-a3df-854f64c0235e','2017-03-25 02:17:07','2017-03-25 02:17:07','d72f839c-9390-4085-9d39-b45144c9c3c8','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','A great place to watch the sky without having any light pollution. Nice simple place to rest.'),
+
+  ('d285644c-05ef-4163-a75e-ff84c9ae9a40','2017-03-25 02:17:07','2017-03-25 02:17:07','b4d6d884-e50d-41eb-9b97-6395a07a43f9','9eec6c06-5918-4867-833a-face490d4715','Great place to stay!'),
+
+  ('d3014b29-0f9d-469b-a12d-f129866a6ead','2017-03-25 02:17:07','2017-03-25 02:17:07','a12e6da9-0797-4445-9626-d5f0fa5ed775','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Terry and Sarah\'s Windmill guest house is a great place to relax in the peaceful setting of Montevallo. There was much to explore and do in the surrounding area, or enjoy the amenities of the home with some Bach on the stereo system.  I would be happy to stay at Terry and Sarah\'s guest house again. '),
+
+  ('d3206cc7-86d7-4a0b-bcd7-700e9802f973','2017-03-25 02:17:07','2017-03-25 02:17:07','e74201c2-6057-419d-be22-d0087eeb4179','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Sherry is a fantastic person, she cares about people and goes the extra mile in making ones stay comfortable. My flight was delayed and I got there at 1:30 A.M., she welcomed me with a cheer. I was there on a 2 day weekend business trip and had very little time to see around. She loaned me beach slippers and a beach towel when I went to Waikiki Beach!! Her home is in a beautiful upmarket neighborhood and is very nice. I would definitely recommend staying here.'),
+
+  ('d3ce5820-b74a-48de-a483-033341c3f9df','2017-03-25 02:17:07','2017-03-25 02:17:07','d27f17eb-3ddd-44c0-9e8a-f3c21d933b3b','3fda0d5c-fea4-4920-bc91-6e6c6663d161','Home is clean, good facilities, comfortable bed and hosts are friendly. It is treated like a hostel, so the hosts are not around aside from check-in or to clean. Strange having a full service kitchen but being unable to use it, although this is mentioned in the listing. The location, although most likely safe, is very residential and not confidence inspiring for tourists, especially those reliant on public transport. Paper is also requested to not be flushed down the toilet and to be placed in a bin instead in the shared bathroom, which is both strange and uncomfortable.'),
+
+  ('d405b479-8895-4dca-a9b7-5fb00654c4e5','2017-03-25 02:17:07','2017-03-25 02:17:07','52d726db-2427-40ca-a5f0-d5c117625d1c','7771bbe9-92ab-46d1-a636-864526361d7d','Just as listed. Jay was a great host to my in-laws and they had a fantastic time. '),
+
+  ('d41ea0a5-32a3-49c9-819b-2e20de71bcca','2017-03-25 02:17:07','2017-03-25 02:17:07','207f5bf6-d1de-4cca-a60d-c2c48e93debc','7771bbe9-92ab-46d1-a636-864526361d7d','Beautiful old southern home, very spacious accommodations including private lounge, separate bedroom large bath and kitchenette.  Close to downtown, private & secure.  '),
+
+  ('d458ae89-2c7e-4007-a7e2-df6c8e4a1b5e','2017-03-25 02:17:07','2017-03-25 02:17:07','52cc10db-af9b-499c-aa8e-670056611a7c','61302be9-4b31-4be0-92fc-d0dda253e167','This place is a great place to stay at a fantastic value! '),
+
+  ('d51a0d8c-b860-4d08-8f17-3074a3754e17','2017-03-25 02:17:07','2017-03-25 02:17:07','9247dcc1-711a-4ab2-b99a-f2808627d2f2','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','I loved staying here! It\'s one of my most favorite Airbnb stays. They will treat you right! I was here to run the Zydeco Half Marathon so it was very close to the start of the race.  '),
+
+  ('d53a80e5-717d-4ec8-8d4e-6c4416c9398b','2017-03-25 02:17:07','2017-03-25 02:17:07','3827c1d1-14d5-4643-a24b-3dca656192fa','7771bbe9-92ab-46d1-a636-864526361d7d','Great place to stay. Chantal was so friendly, it was very clean, and the location was very convenient.'),
+
+  ('d57bacb5-8e96-4517-937b-6e3d188358eb','2017-03-25 02:17:07','2017-03-25 02:17:07','3ebfaf23-cede-4cf0-964d-8afc17b11d02','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','I travel a lot for work and this is one of the best places I\'ve ever stayed.  The little yellow cottage was perfect for me as a solo traveler, everything is clean and set up really well and the decor is just extremely charming.  What really made the trip was meeting Jan and Charlie, who are two of the nicest people I have ever met in my life.  I absolutely recommend staying here and hope to come back.'),
+
+  ('d6d6197c-00a4-4025-827b-7d90416efaa3','2017-03-25 02:17:07','2017-03-25 02:17:07','3290a4ef-4241-4fa5-843e-87926c74e384','f33e2624-520b-4bc2-b6a0-190ee1d41855','Clean and comfortable. The amenities were well stocked and Carlos was really accomodating. The puppy dog was also adorable. '),
+
+  ('d78d2576-1be3-48a1-ac5d-46dc3c68bd93','2017-03-25 02:17:07','2017-03-25 02:17:07','f19fa153-154e-440b-9f4b-debee403b0d2','91e27a07-1f47-43c9-b851-60c6882abcd3','Kathleens place is beautiful and I would most definitely recommend it to anyone seeking an Airbnb in Naperville. She was friendly, warm, and very accommodating!<BR /><BR />Checking in was incredibly easy with a key-code on the front door for access. The neighbourhood was great and only 10min walk to the beautiful \'river walk\'.<BR /><BR />If I am in Naperville again, I will most definitely book here again.'),
+
+  ('d7d788ff-a1f0-4580-b259-254d9cb3cc09','2017-03-25 02:17:07','2017-03-25 02:17:07','b6692019-ac4a-47aa-a671-89cd79c9e11f','70b18dcc-08ef-4040-91cf-4075973d320a','Great place, would stay again!'),
+
+  ('d81e9dc5-7789-43e9-825a-baf283efd646','2017-03-25 02:17:07','2017-03-25 02:17:07','7354ea6c-3c0e-4800-aad8-708c29a6c067','00a11245-12fa-436e-9ccc-967417f8c30a','This is a good place for students and backpackers as there are other guests who stayed there as well. The room has a bed and bathroom is separate which is common to other guests. Location is away from main tourists area. '),
+
+  ('d84c1288-b717-4e7b-bd83-5e993a7442bb','2017-03-25 02:17:07','2017-03-25 02:17:07','695c0586-3345-4b15-bcf7-f5ecbae258e1','b6160096-c503-4909-a674-7bfbddc8cc45','Great customer service. '),
+
+  ('d85b26d0-d8b7-4eea-9d45-76d0dd9f6f69','2017-03-25 02:17:07','2017-03-25 02:17:07','6f59f0c7-f3f6-419f-9a8c-9d998a3b681c','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Beautiful place that I wish we could\'ve enjoyed a little longer. Daniel is friendly and hospitable. Took great care of my husband and I. '),
+
+  ('d8a9a980-f01d-4bc6-aa29-4f3cf72cb559','2017-03-25 02:17:07','2017-03-25 02:17:07','19ae5055-f503-499d-a64f-2bf7d92eff5b','150e591e-486b-48ee-be42-4aecba665020','Great location. Comfortable. Just what we needed. '),
+
+  ('d8fdde05-202c-4ce8-8661-4a768f424f79','2017-03-25 02:17:07','2017-03-25 02:17:07','b2c8a4cd-6e80-48c3-a1fc-07f129ee2875','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Good place and great host.'),
+
+  ('d9b78c3b-ab7a-4476-a5aa-69e123ac299a','2017-03-25 02:17:07','2017-03-25 02:17:07','43803445-1874-4a3c-94e9-955fcb25089b','f33e2624-520b-4bc2-b6a0-190ee1d41855','Fantastic stay in jackson! The room was very comfortable and clean and we would definitely stay here again!'),
+
+  ('d9ec47c4-6a3b-45ad-b3aa-71c00ca34d50','2017-03-25 02:17:07','2017-03-25 02:17:07','1385324e-d727-475c-ad30-f7dcb5afea02','9eec6c06-5918-4867-833a-face490d4715','Super quiet. Lots of birds and bunnies to see in our walks. '),
+
+  ('da163ad1-7710-4b34-b5e2-3b015a111ff2','2017-03-25 02:17:07','2017-03-25 02:17:07','b33cae89-fe4f-4c6e-a1c5-0022450f2bf2','8394fd35-8a8a-479f-a398-48f53b4a6554','Great hosts!  Very friendly and hospitable.  Coffee, Hawaiian pancakes, and chilled cold water for us to enjoy while we stayed.  A beach all to ourselves, made for a relaxing way to spend the day reading under a palm tree!  They also provide beach chairs, towels, and boogie boards.'),
+
+  ('da2fa9bd-b5ad-4060-93b7-8bf1362c9659','2017-03-25 02:17:07','2017-03-25 02:17:07','b56cb489-da79-4028-bcc0-7251324606f0','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Jim & Maki are excellent hosts. I enjoyed 4 days/3 nights with them on the edge of  a small valley with a nice view. Breezes cool the house and birds sing in the trees. Try to have Maki cook a breakfast for you, she is an amazing cook.'),
+
+  ('da35870a-d2f3-445d-8f58-5c38f8d101d9','2017-03-25 02:17:07','2017-03-25 02:17:07','43803445-1874-4a3c-94e9-955fcb25089b','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Valerie and Spencer were great hosts. Professional and also friendly and personable. Valerie has such a passion for Jackson and is knowledgable about the area. I felt very safe in their house and neighborhood. And the cats are so sweet. I would definitely stay with them anytime I return to Jackson.'),
+
+  ('da435eb9-e0e5-4d79-8de2-9d9e13ff5c1b','2017-03-25 02:17:07','2017-03-25 02:17:07','d37d7e5a-d186-45a0-a190-c065ff5922e8','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','.'),
+
+  ('da87f2e0-4ba8-4342-81f3-3bf20fa5fd49','2017-03-25 02:17:07','2017-03-25 02:17:07','66fb8e5d-2ad2-44be-8890-a13a9992f257','30a890e4-a62c-44f9-abc0-07e2c74021da','We had a great time. The place is private and comfy '),
+
+  ('daa3d738-e409-4e75-b96d-c94898d296c6','2017-03-25 02:17:07','2017-03-25 02:17:07','0a454f9a-eaac-488b-8443-23cf58f7ae37','70b18dcc-08ef-4040-91cf-4075973d320a','Lovely place very nearby the beautiful beach.'),
+
+  ('db48fa91-4e03-4eb1-858a-c4fd95f8f76c','2017-03-25 02:17:07','2017-03-25 02:17:07','12ff7d06-9910-41cd-9eee-bdc21476d119','5e181cc6-cac7-49e9-a7a1-3095b0f9010b','This condo is comfortable and clean in an excellent location. The beach is just a short walk away, so are the major shopping centres and restaurants. Dana was helpful in getting us checked in and settled.'),
+
+ ('db4b819d-3611-4914-b0c8-5b9a6f6eb978','2017-03-25 02:17:07','2017-03-25 02:17:07','7a958fb6-a203-441c-9f8f-3440523fed14','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Great place to stay! A simple, but clean and very nice apartment with most everything you could ask for. The host Fabian is very good about staying in touch or answering any questions you have and is an all round pleasant person to talk to. May be hard to find parking later in the day.'),
+
+  ('dcb24c1c-905f-45d1-8d65-7929d8acffaa','2017-03-25 02:17:07','2017-03-25 02:17:07','4ae40c33-23c9-47a9-b867-0a6d8f25fd8c','8394fd35-8a8a-479f-a398-48f53b4a6554','Barb is a fantastic communicator! With her clear guidance, we were able to check in comfortably.  The views are spectacular.  Just as a heads up, the bathroom does not close completely and the shower head is low.  For me it was fine, but difficult for my taller friend to shower comfortably.  '),
+
+  ('dcbf7676-46fc-4261-8f24-99202312bd9d','2017-03-25 02:17:07','2017-03-25 02:17:07','d37d7e5a-d186-45a0-a190-c065ff5922e8','00a11245-12fa-436e-9ccc-967417f8c30a','Wow, where to begin.....First of all, we had an wonderful stay at a spot - on place to stay. I am pretty picky and realistic when it comes to experiences like this and I can say with sincere conviction that I felt as if this was a custom-made house stay for me, my wife and our beloved pooch. The house is funky, upbeat, colorful as advertised in a unique town in a unique spot accessible to all that we desired. Surprisingly quiet, tranquil, a genuinely friendly neighbor Linda, we loved the fenced in front and back yards for our dog (he is very picky too and seemed at home immediately!). The bed was comfy, the shower nice and hot (important for me!), after all our adventures we were able to relax in the living room as if it was our own and watch an obscure movie on Netflix, great wifi, great cell phone reception (who would think in the middle of a copper mine??). We didn\'t do any cooking, but were tempted by the gas stove, and did enjoy the comfort of fresh ground coffee because how did t'),
+
+  ('dcc77ae5-fb82-4314-bc4b-3db267bd5ac6','2017-03-25 02:17:07','2017-03-25 02:17:07','daa15c1b-9ca6-4042-85fd-bdb7a46d5862','f33e2624-520b-4bc2-b6a0-190ee1d41855','Mike\'s place was perfect for our short trip to the cities. Clean, comfortable, and the perfect distance to restaurants and the Xcel Energy Center!'),
+
+  ('dd4f2ff1-1385-4fec-8d32-f0b11d85bb49','2017-03-25 02:17:07','2017-03-25 02:17:07','43803445-1874-4a3c-94e9-955fcb25089b','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','This place is so cozy and we\'ll decorated. Valerie and Spencer were both very freindly and informative. We really enjoyed our stay. '),
+
+  ('dd8967a1-4517-44ab-9991-a49b9ed9d7bd','2017-03-25 02:17:07','2017-03-25 02:17:07','9c7d3ecd-9592-4910-bd04-91c59e8350f1','887dcd8d-d5ee-48de-9626-73ff4ea732fa','Chris was super helpful with the house and extremely gracious about our privacy.  The listing was as advertised, and it was extremely close to down-town Tupelo, making it easy to walk to dinner and stroll around.  We loved it!'),
+
+  ('ddf248ee-62f0-4bda-ae0c-1bfff7ddc4a4','2017-03-25 02:17:07','2017-03-25 02:17:07','e2d4feeb-4cb0-4df4-a10e-5a54748621b3','00e93fc3-53ff-4da4-8e72-faa5216f81bb','Lovely refurbished Tudor style home.  Very welcoming and inclusive hosts.  The breakfast was all homemade and fabulous.  This was a great place to stay.'),
+
+  ('de9be2f6-a40e-4419-b321-f49711f8d155','2017-03-25 02:17:07','2017-03-25 02:17:07','78ca76e7-78dc-4867-8281-50ab3dc47cdd','61302be9-4b31-4be0-92fc-d0dda253e167','What a beautiful, private space! The bed is more comfortable than our fancy mattress at home.'),
+
+  ('dec1c758-a14e-448b-aaa0-e6ea22254bb4','2017-03-25 02:17:07','2017-03-25 02:17:07','4316efa3-0fb1-4aad-87c0-43ef8d3c0376','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Great little cabin. Loved that you had a code to get in so made for a very quick check in. Amazing value!'),
+
+  ('def399c0-a381-494b-9f07-e4a022b4cb67','2017-03-25 02:17:07','2017-03-25 02:17:07','d27f17eb-3ddd-44c0-9e8a-f3c21d933b3b','30a890e4-a62c-44f9-abc0-07e2c74021da','Good value, clean room, towels. Sandra and her husband are nice folks. I had no issues with my stay.'),
+
+  ('df4f419e-3df0-4b42-b48a-235d0fc475cf','2017-03-25 02:17:07','2017-03-25 02:17:07','98b1678d-d25c-476a-b6c3-c11978617e90','df668e22-e344-4c89-a050-e5ad211cbaa6','Chris was wonderful and a very gracious host. '),
+
+  ('e04394ac-b7c2-49d8-b4d7-5e73a531e497','2017-03-25 02:17:07','2017-03-25 02:17:07','d37d7e5a-d186-45a0-a190-c065ff5922e8','150e591e-486b-48ee-be42-4aecba665020','We stayed here for the weekend so we could explore both Bisbee and Tombstone. We chose Bisbee as there were more vegetarian dining options for us, than in Tombstone. Glad we did as Bisbee is a fun and friendly little place and was the perfect base. We were also glad we stayed outside of Old Bisbee, as it can be fairly noisy in the evening. Denise\'s place is a short drive away and offered us a quiet spot to leave our crated dog while we ate out and enjoyed tours that were not dog-friendly. We also had no qualms about walking our dog around the neighborhood in the dark. The house itself is quirky and well-equipped, plus we appreciated the private little fenced patio area directly outside the back door. Linda, who lives across the street, greeted us when we arrived and showed us where to park (off-street, alongside the house). She told us that if we needed anything to let her know, but since everything had been taken care of, we just settled in and enjoyed our weekend. If you prefer a qui'),
+
+  ('e0770c00-988d-4c04-9b7c-5ec68fd704aa','2017-03-25 02:17:07','2017-03-25 02:17:07','32945f6e-5a96-4233-b8ae-048d51323d7b','887dcd8d-d5ee-48de-9626-73ff4ea732fa','The hotel outside looks a little older, the room was cute, though.  Had great shower pressure, AC worked wonderfully, room was clean, and had all the toiletries.  Beds were also very comfortable. '),
+
+  ('e0c8454d-591f-4365-af19-a76c4d2f6b9e','2017-03-25 02:17:07','2017-03-25 02:17:07','859a8a8f-9423-4bf6-b471-d9a7f39c9c2c','8394fd35-8a8a-479f-a398-48f53b4a6554','The pool house was a very nice place to stay. Brent and Cindy are very accommodating. Highly recommended!'),
+
+  ('e2baf0b9-3bc9-4525-8616-323d01178256','2017-03-25 02:17:07','2017-03-25 02:17:07','aaf389be-c794-4fb4-a6cf-619ca956898f','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','The cottage was beautiful and was stocked with everything anyone could possibly need for a comfortable stay. The neighborhood was quiet and away from busy streets and at the same time a conveniently short distance from many great restaurants, markets, and wineries. This is a great place to stay if you are traveling solo or with a significant other; the cottage is very intimate.'),
+
+  ('e327d2a5-651c-4ba8-8dea-2098483e481d','2017-03-25 02:17:07','2017-03-25 02:17:07','df2548db-377d-422e-b805-4e8e0c794302','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Very nice. Such a cute place to stay. Kevin was great! Was quite and has a beautiful view of the city at night. We loved it. '),
+
+  ('e32a3a30-4565-4628-8d9f-6def81f7f97c','2017-03-25 02:17:07','2017-03-25 02:17:07','e979e012-bcb1-47ea-bb39-140cdfe0f917','30a890e4-a62c-44f9-abc0-07e2c74021da','Clean and comfortable! '),
+
+  ('e3552d9e-a604-462d-98c2-3b1b84411efa','2017-03-25 02:17:07','2017-03-25 02:17:07','b4a927e4-9715-4cd2-9918-47491f97df3e','61302be9-4b31-4be0-92fc-d0dda253e167','Great place and great people!  '),
+
+  ('e3fbbb5f-e399-4b2f-afa5-7ec6bf9040c3','2017-03-25 02:17:07','2017-03-25 02:17:07','ef3f56b8-c024-471e-b7ba-be1a72c6cbec','00a11245-12fa-436e-9ccc-967417f8c30a','Good place to stay for a night or two. 4 minute drive from downtown Tempe. '),
+
+  ('e44002aa-aec6-4409-ac16-056e32f2e7b6','2017-03-25 02:17:07','2017-03-25 02:17:07','d27f17eb-3ddd-44c0-9e8a-f3c21d933b3b','fa44780d-ac48-41ab-9dd0-ac54a15755cf','I communicated with Sandra throughout my trip and was very flexible by the fact that I wasn\'t sure exactly what time I would be reaching because I was doing a road trip. The room is clean and the bathroom is very nice! The host also provides netflix in the living room!'),
+
+  ('e50771ef-090e-4ca0-8771-db5eb18ad3fc','2017-03-25 02:17:07','2017-03-25 02:17:07','47b9ca37-915d-405d-861d-7dbf74559441','fa44780d-ac48-41ab-9dd0-ac54a15755cf','The hot tub is awesome. Take note that there\'s no place to prepare food, but there is a small fridge (think of this as a hotel room). Check in is very simple. '),
+
+  ('e5384b00-9cd1-436a-92b9-3d2a6dedddea','2017-03-25 02:17:07','2017-03-25 02:17:07','279b355e-ff9a-4b85-8114-6db7ad2a4cd2','150e591e-486b-48ee-be42-4aecba665020','Great place! Nice and clean and super comfy linens. Would recommend!'),
+
+  ('e55b4562-17db-4f65-8c66-9f41e9f32137','2017-03-25 02:17:07','2017-03-25 02:17:07','e3f28357-a476-4032-8726-4ac7262cbc72','9e7b2291-3bff-43b9-9241-8ff685e7a6dd','I had an excellent stay at Jane\'s while in Napa on business. It\'s centrally located and just a five minute drive from some great food and stores. The house is a lovely place and the room was one of the best Air BnB experiences I\'ve had yet - she thought of everything one may need during a stay. I highly recommend!'),
+
+ ('e5be7970-868c-47e9-9ffd-6c0b32590470','2017-03-25 02:17:07','2017-03-25 02:17:07','6a78ec0c-8410-4cbf-a915-e697a3aa798d','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Will definitely come back here when in the area! Fantastic place, highly recommended! Don\'t forget your swimsuit - great pool, lake and jacuzzi. Very private and beautiful gardens.'),
+
+  ('e5c48592-18f1-4739-9d72-bcf781c48dec','2017-03-25 02:17:07','2017-03-25 02:17:07','4703b2d8-e417-4243-a6f3-044fc06f020e','85651506-c13c-4c2f-9c79-8fbebc048e39','I felt right at home here, Amelia was so welcoming! I was lucky enough to be invited to join a delicious home cooked dinner with her and her other guest. It was a great environment to hang out with new people and also have some quiet time. Amelia is great to talk to and to learn from about what\'s going on in the area. Close to Birmingham which I unfortunately didn\'t get to explore this time around.'),
+
+  ('e62d302a-2bc0-4381-8a28-08503d9aac01','2017-03-25 02:17:07','2017-03-25 02:17:07','e6c33577-5de3-4481-9147-47ef4710b986','00e93fc3-53ff-4da4-8e72-faa5216f81bb','Joanna and her family are beautiful people. They are eager to share their stories of their lives, travels, Hawaii past and current, and the rich Hawaiian culture with you. I honestly felt like one of there family members while staying with them. They even fed me a delicious BBQ dinner. This is a great way to experience the loving nature of the Hawaiian people. '),
+
+  ('e66c3e16-571b-4200-8c02-cfce1103db33','2017-03-25 02:17:07','2017-03-25 02:17:07','817bcb43-ba39-4925-aed6-76be4bed946b','85651506-c13c-4c2f-9c79-8fbebc048e39','Tom was a great host, super friendly! Plus his dog Coby is so sweet. Good place for the price! Everything offered was there! '),
+
+  ('e6cfc956-c5a7-47a7-9aa6-454f22341af4','2017-03-25 02:17:07','2017-03-25 02:17:07','3827c1d1-14d5-4643-a24b-3dca656192fa','9e7b2291-3bff-43b9-9241-8ff685e7a6dd','Very clear place.'),
+
+  ('e6d47691-f4be-4f26-989b-bf99c3b853e4','2017-03-25 02:17:07','2017-03-25 02:17:07','0675a2d6-f64c-4be7-9a8a-f55341f09d4b','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','Cozy place, great host. '),
+
+  ('e744bff1-cc32-4a8b-ab38-8545bdbdf8fc','2017-03-25 02:17:07','2017-03-25 02:17:07','aaf389be-c794-4fb4-a6cf-619ca956898f','7771bbe9-92ab-46d1-a636-864526361d7d','This lovely little guest studio behind Melanie\'s house was the perfect choice for our visit to Napa/Sonoma. As others have commented, it is cozy but very well-appointed with everything you could possibly need for a lovely stay. Bed was very comfortable. Melanie greeted us warmly with a smile and a hug and was very responsive to any inquiries we had.  The location was perfect for our jaunts to Napa for the wine train and a day trip to Calistoga. This is the epitome of an AirBnB stay......'),
+
+  ('e7f4c843-1952-4d7d-ac87-866bedeb2bbb','2017-03-25 02:17:07','2017-03-25 02:17:07','b13b1a74-3a12-4f00-8c19-273cbedc0eaa','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','Very nice place,  but just couple notes-pretty serious stairclimb, good workout though! Smells smokey, smoker friendly. That\'s the main thing our group didn\'t care for. Other than that, nice place, well appointed. Great location and view, not loud. '),
+
+  ('e8146cd3-2224-40d3-874e-94216e106514','2017-03-25 02:17:07','2017-03-25 02:17:07','e979e012-bcb1-47ea-bb39-140cdfe0f917','91e27a07-1f47-43c9-b851-60c6882abcd3','Great host.  Clean and super friendly.  Fun dog to love on.  Very thoughtful host.'),
+
+  ('e8450beb-0727-4148-b9f9-a7460e2531c6','2017-03-25 02:17:07','2017-03-25 02:17:07','6ebec357-8589-435b-a5cb-fcd99b638fae','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Elisa was kind and communicative. She left breakfast out which was an amazing detail! Also, Elisa has the most amazing pillows in the room! Highly recommend!'),
+
+  ('e84e4ec9-64ec-4512-a27d-a7b590ada6ee','2017-03-25 02:17:07','2017-03-25 02:17:07','6ebec357-8589-435b-a5cb-fcd99b638fae','150e591e-486b-48ee-be42-4aecba665020','Staying at Elisa\'s house was amazing! The large room and super comfortable bed made our big drive easy to recover from. <BR /><BR />The coffee and scones in the morning was a great bonus too! Thanks for a good stay!'),
+
+  ('e88b2d64-c23d-4c1b-9776-211ab7235c91','2017-03-25 02:17:07','2017-03-25 02:17:07','18ff54e2-dc10-4e7f-bfdb-8a7591f7f009','61302be9-4b31-4be0-92fc-d0dda253e167','There are two other rooms that get rented out so the share places feels a little untidy sometimes. But the room itself was clean and was fine. The house is on a busy street so there is a bit of traffic noise. It was nice being able to use a washer and dryer and a kitchen too. Travis was nice and checked whenever he did see us if things were fine. '),
+
+  ('e914faa0-1813-4e47-82f1-2d6377938027','2017-03-25 02:17:07','2017-03-25 02:17:07','eb3c3877-39bc-4de3-8fc3-4f3895c5b2ba','150e591e-486b-48ee-be42-4aecba665020','Great place! '),
+
+  ('e93ec66a-f5d6-47bd-8a43-f7568ffdf026','2017-03-25 02:17:07','2017-03-25 02:17:07','98b1678d-d25c-476a-b6c3-c11978617e90','5e181cc6-cac7-49e9-a7a1-3095b0f9010b','Chris was very welcoming and easy-going. The room was clean and comfortable. Would definitely recommend! '),
+
+  ('e99c015a-780a-463c-9bab-3efadb2e80a2','2017-03-25 02:17:07','2017-03-25 02:17:07','12ff7d06-9910-41cd-9eee-bdc21476d119','426624f6-84a9-4ec4-84f3-7655dc70e86e','This place is all about location. It’s minutes from the beach and a short walk to Waikiki or Ft DeRussy beach, or easy bus ride to further sights (e.g., Iolani Palace, Diamonds Head).  As a bachelor suite, the room itself was the perfect size for a couple looking to explore Honolulu. Inside, the décor is pretty and modern and makes a nice private place to relax after a long day of adventure.  Though we didn\'t get a chance to use the pool (we were too busy exploring Honolulu), it looked well maintained and like a great place to relax.  Outside, the building itself, which is both a hotel and condo buildling, is a bit dated. However, the staff are very friendly, and someone is always around – night or day - to help you in case your key card doesn’t work.  Dana was also a great host, and communication with her was quick and easy!   '),
+
+  ('ea71f26f-3e10-460f-a7c7-587448c1fb52','2017-03-25 02:17:07','2017-03-25 02:17:07','d991f849-0f2f-41cb-b6d7-41feee6bc943','91e27a07-1f47-43c9-b851-60c6882abcd3','It was our first time booking a room in a shared home and it was a great experience.  The family was nice and generous.  The street parking was full so they offered their garage.  If I needed to go back to Fremont, I would book it again.'),
+
+  ('ea8b5ac8-c518-4ac3-aca2-b73a9d774f20','2017-03-25 02:17:07','2017-03-25 02:17:07','78ca76e7-78dc-4867-8281-50ab3dc47cdd','f33e2624-520b-4bc2-b6a0-190ee1d41855','Small and relaxing. Cozy and comforting.'),
+
+  ('ead4adc8-07ed-492e-8fed-a6421cce171e','2017-03-25 02:17:07','2017-03-25 02:17:07','328bd785-a91b-424c-afda-9e08e5155cfe','cf1780e6-d294-4113-8749-1c728b9e3f81','Old house that is remodeled. Nice bedroom with comfortable bed. We enjoyed our stay. '),
+
+  ('eb78caf9-de6a-4a18-8961-52bec8c4c320','2017-03-25 02:17:07','2017-03-25 02:17:07','836bea96-c22d-46d2-9335-b97cec4cc30a','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Ellen is a super hostesses. All the southern charm of Jackson with great art and atmosphere. Comfortable home in the heart of Jackson.'),
+
+  ('eb7a2c08-d5b5-47f4-8f6b-58b9105dc94e','2017-03-25 02:17:07','2017-03-25 02:17:07','52cc10db-af9b-499c-aa8e-670056611a7c','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Kelly\'s place was very affordable, and was exactly as advertised! '),
+
+  ('ec2750e9-9b0a-49d9-b2ef-77898aded427','2017-03-25 02:17:07','2017-03-25 02:17:07','817bcb43-ba39-4925-aed6-76be4bed946b','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','JJ is easy to get in touch with and offers a quiet place to sleep and take a shower. The lava lamp really lives up to the hype.'),
+
+  ('ec299be8-75d4-4dee-a4f7-ce30dc7409a6','2017-03-25 02:17:07','2017-03-25 02:17:07','ad4cd1fe-3358-4183-8062-59e39824175c','3fda0d5c-fea4-4920-bc91-6e6c6663d161','An absolute perfect step back into time. '),
+
+('ec3be7c6-867e-4863-acc9-aecacb272fd3','2017-03-25 02:17:07','2017-03-25 02:17:07','7354ea6c-3c0e-4800-aad8-708c29a6c067','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Not very clean, but it is a good value. Tex was very accommodating to our early check-in and late check-out, which we really appreciated. '),
+
+  ('ed4dade8-cd64-4525-8687-9cf2bf9af980','2017-03-25 02:17:07','2017-03-25 02:17:07','e551a4a6-7701-41de-be62-aae869888c78','85651506-c13c-4c2f-9c79-8fbebc048e39','Such a great place to stay!!! It was clean and they were so friendly. Wonderful location also! '),
+
+  ('ed52e591-6ded-459a-b8fe-050558a21de6','2017-03-25 02:17:07','2017-03-25 02:17:07','f19fa153-154e-440b-9f4b-debee403b0d2','3ea61b06-e22a-459b-bb96-d900fb8f843a','Kathleen is a gracious host. Her spacious home is  decorated with an artist\'s sense of style.  We enjoyed the quiet privacy she provided as well as her friendly personality.  Would recommend her home highly to any considerate travelers. '),
+
+  ('ed5fa49a-8adc-4c15-bc80-265c76c9d8ca','2017-03-25 02:17:07','2017-03-25 02:17:07','52d726db-2427-40ca-a5f0-d5c117625d1c','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Very nice cottage with cool tech to play with. Very considerate hosts that have earned their super host status for sure. <BR /><BR />The complimentary bottle of wine was a very welcomed gift. '),
+
+  ('edf62f14-9c58-421e-af4b-af68ee5c8d9e','2017-03-25 02:17:07','2017-03-25 02:17:07','314b188e-990b-423e-ae63-f0199b8c2b17','85651506-c13c-4c2f-9c79-8fbebc048e39','The cottage was comfortable and perfect for 2. Loved our stay, would definitely stay there again.'),
+
+  ('ee814316-1e4d-42d9-851c-5fedc35d901e','2017-03-25 02:17:07','2017-03-25 02:17:07','b493f8ca-c5d2-414a-9441-6cd4dcebcd36','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Lots of steps; centrally located; beautiful house; couldn\'t have asked for more.'),
+
+  ('eeb78eb1-f8f1-4bfd-8812-d8256adf6c54','2017-03-25 02:17:07','2017-03-25 02:17:07','6a78ec0c-8410-4cbf-a915-e697a3aa798d','85651506-c13c-4c2f-9c79-8fbebc048e39','Rafael was a fantastic host!  He made the check in process easy and answered any questions prior to arrival.  He also recommended local places of interest - sites and restaurants.  The property is gorgeous - the private suite, the lake (including paddleboards and canoe), pool, Jacuzzi... we had an amazing stay and highly recommend to anyone traveling to the downtown Orlando area.  Will definitely stay here again - Thanks for accommodating us  us! :)'),
+
+  ('eeea77e7-d25b-47fa-a2ab-3b04c138ec85','2017-03-25 02:17:07','2017-03-25 02:17:07','9684e0c7-0f21-4a00-9334-1a974e13dbc3','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Really cool vintage airstream with an lite porch!'),
+
+  ('eeef1476-32d9-48b2-abdd-2aac45f95de8','2017-03-25 02:17:07','2017-03-25 02:17:07','bc227cc3-0ad7-4b9a-b72a-6c2a45e6a88a','b6160096-c503-4909-a674-7bfbddc8cc45','Check everything in front of host. '),
+
+  ('efc9014d-fe4c-4fe2-b216-912264c3fc3a','2017-03-25 02:17:07','2017-03-25 02:17:07','ad124633-a610-483f-862a-6f54dda19c6e','f9b11370-f316-492c-92da-014d7bce7213','Nice and comfortable room in a nice neighborhood. Very close to UCF university.'),
+
+  ('efd04321-816e-49f8-bc88-7e167197c177','2017-03-25 02:17:07','2017-03-25 02:17:07','62e75faa-d265-4ca1-a009-1e06f1d6ab14','fa44780d-ac48-41ab-9dd0-ac54a15755cf','loved it'),
+
+  ('f11ddc3e-b304-4d91-8a9c-8cd2b7502512','2017-03-25 02:17:07','2017-03-25 02:17:07','f19fa153-154e-440b-9f4b-debee403b0d2','61302be9-4b31-4be0-92fc-d0dda253e167','Kathy is a wonderful host. We felt comfortable from the moment we arrived and she was good at communicating prior to our stay. The pictures provide an accurate view of this lovely home. Also, we enjoyed walking the trail by the river and the River Walk to Downtown Naperville. The house is in a quiet neighborhood and we were able to walk to a great breakfast place (less than one mile), \"The Lucky Penny Diner and Deli\". '),
+
+  ('f1775aef-623f-4fa2-bfd3-387b858951e3','2017-03-25 02:17:07','2017-03-25 02:17:07','1014dfdf-fa7a-487c-bba8-2d3076d570dc','150e591e-486b-48ee-be42-4aecba665020','Randall\'s place was great! Beautiful location in a wooded neighborhood, with a lovely fenced backyard garden. The space felt like a separate apartment, and the jacuzzi/sauna were awesome. Randall was very helpful and provided us with more delicious snacks than we could have imagined. Would absolutely stay here next time I\'m in Denver!'),
+
+  ('f17cd286-e5e1-4b88-9e0a-b364e445f474','2017-03-25 02:17:07','2017-03-25 02:17:07','b180ad52-fe00-4040-97f9-9efdfc3d406d','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Had a wonderful cozy time in the pod as my base to explore a bit of eugene. Very nice hosts, I\'ll definitely be back again next time I come to Eugene.'),
+
+  ('f26121a1-2230-43b5-8139-10254cc592ea','2017-03-25 02:17:07','2017-03-25 02:17:07','ae787938-171f-4563-8c75-92a037fed415','fa44780d-ac48-41ab-9dd0-ac54a15755cf','I enjoyed 3rd time stay over there.'),
+
+  ('f3130aa5-0eb8-40ef-9916-395097c2db71','2017-03-25 02:17:07','2017-03-25 02:17:07','3c7eb6bc-a146-4186-bfbf-9de857286e68','fa44780d-ac48-41ab-9dd0-ac54a15755cf','This is an extraordinary space with sweeping views and a lovely front and back patio for sipping wine and enjoying the stars.  Naomi and Frank have thought of almost everything to make your stay seamless and fabulous.  Best place we have stayed in Bisbee.  Highly recommend.  '),
+
+  ('f38b227e-2c78-41af-a6da-383fcb8b02bc','2017-03-25 02:17:07','2017-03-25 02:17:07','31568a3f-d5b1-47d1-b2ee-74339059e3a0','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','Fantastically clean and cozy. A great place to stay if you are looking for peace and quiet! '),
+
+  ('f471f8dd-f80d-4c30-8148-1d06c82d95f2','2017-03-25 02:17:07','2017-03-25 02:17:07','ff46f903-411b-4a16-8e16-1aab7f00686c','9eec6c06-5918-4867-833a-face490d4715','Tiffany and Ryan\'s place was clean and comfortable and close to the center of Bisbee. A good place to stay!'),
+
+  ('f4c6b375-490f-40c9-aead-82f0bc2dfafe','2017-03-25 02:17:07','2017-03-25 02:17:07','96233d68-319e-4ae0-a20f-3af55dcadb0a','df668e22-e344-4c89-a050-e5ad211cbaa6','Just wanted to add that check-in and check-out is very much as you would as a guest of Hilton Conrad. Easy-peasy and a great value. Thanks!'),
+
+  ('f56c6dce-e118-4edd-bb15-1a0f363e2a78','2017-03-25 02:17:07','2017-03-25 02:17:07','328bd785-a91b-424c-afda-9e08e5155cfe','dfc6b9a5-6673-4f1b-83cd-0dfa800c0d08','I had a great stay. Very clean, and fancy. '),
+
+ ('f60e3e68-dc97-4694-bbbe-002b1a5d02f3','2017-03-25 02:17:07','2017-03-25 02:17:07','645127dd-38b4-4fad-9950-57b3ce0a5301','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Super close to the UofI campus. Cameron and Sara\'s place was very clean and basic, and provided me with everything I needed for a comfortable stay.'),
+
+  ('f68432af-e81f-4703-b7fc-520cd09fa5e4','2017-03-25 02:17:07','2017-03-25 02:17:07','78ca76e7-78dc-4867-8281-50ab3dc47cdd','70b18dcc-08ef-4040-91cf-4075973d320a','Excellent, quiet accommodations. '),
+
+  ('f694d9ce-2e60-44b1-95b0-2f4ebe2ed52d','2017-03-25 02:17:07','2017-03-25 02:17:07','3ebfaf23-cede-4cf0-964d-8afc17b11d02','8394fd35-8a8a-479f-a398-48f53b4a6554','Outstanding very cozy place!'),
+
+  ('f6b0def6-2b71-4765-8c75-2991e61da486','2017-03-25 02:17:07','2017-03-25 02:17:07','a302bce0-cb8e-4e54-ba2b-0822b0565303','887dcd8d-d5ee-48de-9626-73ff4ea732fa','Wow, first it was an economical rate, 22$ per night, and there were no cleaning fees or hidden nickle and dime additions - which has happened a few times in the past under the AirBnB system. It was a straight up rate.<BR /><BR />Bill is a straight up man of integrity. This is what made my stay so wonderful. <BR /><BR />I have stayed at many hostels around the world with similar rates, but you have to put up with a lot more crap, such as kitchens that are dirty, missing appliances, using a nasty dormitory room with snoring, and clothes around the floor, and there have been many other guests who are both well-mannered and ill-mannered. I also include the hostel staff in this smorgasbord. I also used Couchsurfing some years ago, and I met a few marvelous people through it, but lately the site, and the people running it have messed up its system. AirBnB has taken the slack and created a new way to visit new places - and it has marvelous gems like Bill\'s place in Globe.'),
+
+  ('f7220024-e952-4520-8559-2093cae28db4','2017-03-25 02:17:07','2017-03-25 02:17:07','5463e312-5bf4-4764-8c06-e97c5548f712','cf1780e6-d294-4113-8749-1c728b9e3f81','The place is great, in a calm and quite area. Megan is awesome. She\'s flexible and caring. <BR />The room has everything you need and there\'s also a fridge with small snacks in it. It\'s clean and cozy...<BR />I\'ll know where to stay the next time I\'m in Jackson.<BR />'),
+
+  ('f7261084-c0dd-4059-8370-a2e0985d4094','2017-03-25 02:17:07','2017-03-25 02:17:07','09b4888f-0e06-4ab1-abbc-05e9865634d0','f9b11370-f316-492c-92da-014d7bce7213','Great self contained comfortable room and bath that is well outfitted with TV, micro, and fridge in Spanish town neighborhood walkable to downtown and capitol.'),
+
+  ('f827bdef-4c53-4138-9216-c59e0714caf6','2017-03-25 02:17:07','2017-03-25 02:17:07','cff8a023-eacb-4a38-a24f-a01fe9ddde18','8394fd35-8a8a-479f-a398-48f53b4a6554','Great location, helpful hosts. Perfect for a couple. Very convenient to a perfect beach. Relaxing. '),
+
+  ('f854e0c4-52bd-49a8-a9d5-17a7603ca126','2017-03-25 02:17:07','2017-03-25 02:17:07','e58517c1-3214-465f-a982-78208a3266c0','d622edfa-fc35-4732-b5ec-a15d794267ec','Pam was a wonderful host, and the bunkhouse was perfect for our group! Beds were comfortable, the endless hot water was key, and the property was great. The wifi was posted inside the house but didn\'t work. This wasn\'t an issue for us though! We played cards downstairs and enjoyed having lots of space to hang out!<BR /><BR />Pam was great in helping us out with our needs. She was easy to reach even in late and early hours. Definitely would stay here again!'),
+
+  ('f8a8690c-d5e9-42ec-8701-bb3d9ad1d48c','2017-03-25 02:17:07','2017-03-25 02:17:07','b180ad52-fe00-4040-97f9-9efdfc3d406d','dfed3ea3-c133-47e8-8cfa-312eecbcc56d','Nice, clean comfortable spot. Host we\'re helpful and answered all my questions! Perfect spot to rest our heads after a long day!'),
+
+  ('f9520a31-5a2f-4c92-a13e-89110c4e4751','2017-03-25 02:17:07','2017-03-25 02:17:07','a16c7358-bf66-4802-8933-1616b5a322db','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Quinn and Hayden\'s place was absolutely wonderful! Very clean and charming. They were very easy to communicate with and their place had everything I needed. I would definitely stay here again!'),
+
+  ('f9dfbb04-0da5-4994-af14-1470189f2f36','2017-03-25 02:17:07','2017-03-25 02:17:07','ff46f903-411b-4a16-8e16-1aab7f00686c','61302be9-4b31-4be0-92fc-d0dda253e167','As advertised. Prompt and clear communications. Thanks so much. '),
+
+  ('f9e71a09-e04d-41f0-8368-be7eabecc244','2017-03-25 02:17:07','2017-03-25 02:17:07','1ff1963c-7afa-470c-bc05-562b01549b09','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','Hanna\'s place was clean, cozy, and right in the middle of downtown napa. The back patio was wonderful! Very comfy beds and a nice shower. It was perfect for the two nights we spent there :)'),
+
+  ('fa64978b-9251-4b7d-ab85-8e5e10d24614','2017-03-25 02:17:07','2017-03-25 02:17:07','8c2f2c57-a172-4689-a070-cbb4cd456c5c','8394fd35-8a8a-479f-a398-48f53b4a6554','Michael\'s place is located in a spot with great access to all may need or want.  The house is quiet and comfortable. Michael provides clear and timely communication.  '),
+
+  ('faf11e27-78b9-43b1-b3f0-fb3877e2da8a','2017-03-25 02:17:07','2017-03-25 02:17:07','0a454f9a-eaac-488b-8443-23cf58f7ae37','cf1780e6-d294-4113-8749-1c728b9e3f81','We live in Kailua and we chose Pam\'s place for overflow family visiting for a baby luau. So we already know the lay of the land. This is a great location with a big yard very close to the best family beach in Hawaii. Pam Is a terrific host. I highly recommend  this room in Pam\'s home as a great place to stay for a couple or for a single traveler. Enjoy Kailua!  With aloha, Peter C'),
+
+  ('fb4ef7ee-81e8-47a0-97a8-a4b73ba95dc6','2017-03-25 02:17:07','2017-03-25 02:17:07','1385324e-d727-475c-ad30-f7dcb5afea02','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Thomas was very helpful and family friendly, the property was clean, quite and comfortable, slept really good here'),
+
+  ('fb7bc429-9e4f-4278-a1cd-2a7548cbd7b4','2017-03-25 02:17:07','2017-03-25 02:17:07','60b77ea7-04c9-4b8a-b835-dc92c6aa196b','9e7b2291-3bff-43b9-9241-8ff685e7a6dd','This was a great location but definitely cozy. Small bathroom but very clean. The hosts were also great. Very communicative and helpful. '),
+
+  ('fb978264-d7a8-4f39-b336-5430e35ff851','2017-03-25 02:17:07','2017-03-25 02:17:07','43803445-1874-4a3c-94e9-955fcb25089b','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','I only stayed one night but it was amazing! It\'s a beautiful house in a beautiful street. The room is spacious and has everything you might need. Bed is super comfy! The bathroom was very clean and right next to the bedroom. Plus Valery and Spencer are super nice. Totally recomend it.'),
+
+  ('fbec97dc-a67a-474c-ad2b-13941c2974f5','2017-03-25 02:17:07','2017-03-25 02:17:07','19ae5055-f503-499d-a64f-2bf7d92eff5b','91e27a07-1f47-43c9-b851-60c6882abcd3','Great place, no issues. 10/10'),
+
+  ('fc37a5ba-05c4-4b89-83e3-a163b7246172','2017-03-25 02:17:07','2017-03-25 02:17:07','836bea96-c22d-46d2-9335-b97cec4cc30a','32c11d3d-99a1-4406-ab41-7b6ccb7dd760','Beautiful home; excellent host with exceptional communication. '),
+
+  ('fcbb4119-5be5-4d80-8446-ccd579fcf86c','2017-03-25 02:17:07','2017-03-25 02:17:07','9247dcc1-711a-4ab2-b99a-f2808627d2f2','887dcd8d-d5ee-48de-9626-73ff4ea732fa','We had a fantastic one night stay at Plantation Mouton Bois Des Chenes enroute to New Orleans. We stayed in the Carriage House which was clean, comfy and had good WiFi. Ravi greeted us with wine and delicious cookies fresh out of the oven and John cooked us up a stellar breakfast feast the next day (fruit salad, crab omelette, jalapeno sausage and biscuits). Loved having a tour of the house and getting John\'s run down on the area. Highly recommended (don\'t forget to get the breakfast)!'),
+
+  ('fcd4853a-b6a5-48b5-aa14-c0832f8b0e22','2017-03-25 02:17:07','2017-03-25 02:17:07','2b6e6650-5f69-426d-a084-71f7ad30d1f1','c81d66a3-f0fe-44e9-9f31-cb3c6f27db4e','Beautiful home in beautiful Kailua. '),
+
+('fdc5fa63-1ce0-4d36-bf98-99b259514ed8','2017-03-25 02:17:07','2017-03-25 02:17:07','be89d2ce-231e-4205-a8c1-e6bcf5990302','7231eaa1-400f-4cb5-a867-f5eba8adbb81','We had a perfect stay here. Great value and a home-y feel. Sequoia also made us delicious smoothies for breakfast. Highly recommended. '),
+
+  ('fe1361da-3b8a-407f-aad8-e7f6f0de3cc4','2017-03-25 02:17:07','2017-03-25 02:17:07','a302bce0-cb8e-4e54-ba2b-0822b0565303','85651506-c13c-4c2f-9c79-8fbebc048e39','Bill is a great host and I had a wonderful time there, he was incredibly helpful and except for my bad back on the futon it would have been perfect but other than that it was good!'),
+
+  ('fe389bf0-dba8-4343-81be-1b718b10b675','2017-03-25 02:17:07','2017-03-25 02:17:07','bcda6018-7286-4d8c-abfa-dda1026adf88','9eec6c06-5918-4867-833a-face490d4715','We loved the cottage. It was clean and cute. Nice shower! Bed is comfy. Private feel. It was nice to stay outside of downtown Sonoma a bit and meet the locals. Great value!'),
+
+  ('fe521e87-3e45-41ee-a772-46df3840e9d5','2017-03-25 02:17:07','2017-03-25 02:17:07','ad124633-a610-483f-862a-6f54dda19c6e','aa92d1ff-f0ad-4ba3-9c20-2afef207bf70','I had a late arriving plane and Lida was very accommodating and able to have someone available to greet me when I arrived. The bedroom and bathroom are basic but towels were provided and everything was clean and comfortable. Great value!'),
+
+  ('fef65853-3097-4eff-8925-2ae5f29fd70b','2017-03-25 02:17:07','2017-03-25 02:17:07','9247dcc1-711a-4ab2-b99a-f2808627d2f2','df668e22-e344-4c89-a050-e5ad211cbaa6','THE BEST airbnb experience from seasoned airbnbers!  From cocktails when you check in to cajun jam sessions to historical tours of the property, John and Ravi made us feel like family immediately.  This is a true bed and breakfast and a STEAL at the price they charge! The room was charming, private, and smelled great!  Don\'t think twice about staying here because this place is an experience not to be missed when in Lafayette! Cant wait to come back!'),
+
+  ('fefe550f-b651-4b36-ab19-d27d6529e5a7','2017-03-25 02:17:07','2017-03-25 02:17:07','6ebec357-8589-435b-a5cb-fcd99b638fae','fa44780d-ac48-41ab-9dd0-ac54a15755cf','Elisa has a beautiful home and a great system for welcoming visitors, even if you check-in after hours like we did. We had to rush out in the morning, but Elisa was kind enough to offer us breakfast as we were leaving. The room and bathroom were very clean and the towels were super-soft. It was a little bit of a drive back to her house, but it was a nice, quiet neighborhood.'),
+
+  ('ff45e34c-5177-4817-8e6a-9f52cb34d06e','2017-03-25 02:17:07','2017-03-25 02:17:07','314b188e-990b-423e-ae63-f0199b8c2b17','61302be9-4b31-4be0-92fc-d0dda253e167','We had a lovely stay at this cottage in Bisbee. Everything was beautiful, clean, and exactly as pictured and described. Everything was provided including coffee pods, wine glass, a wine bottle opener, etc. All of the little details were provided and made our stay even more wonderful. The deck has a gorgeous view. We were able to walk to everything in town. We\'ll rent this place again any time we want to go back to Bisbee!'),
+
+  ('ff54bd47-758d-41f1-a69f-704921d2eeaf','2017-03-25 02:17:07','2017-03-25 02:17:07','47b9ca37-915d-405d-861d-7dbf74559441','426624f6-84a9-4ec4-84f3-7655dc70e86e','Carmenita is a friendly person! Her place also clean and nice!'),
+
+  ('ff7d29b2-1d11-4bed-8645-8ee5fc72a82e','2017-03-25 02:17:07','2017-03-25 02:17:07','89ddd0bc-2250-4094-8f6d-59b35c0f6891','150e591e-486b-48ee-be42-4aecba665020','Super comfortable and really convenient - all around a great spot! Not only was the place perfect but Jennifer was helpful with any questions/concerns. If you\'re headed to Bisbee this place is a must book.'),
+
+  ('ffaab65f-0491-4bbf-9b58-faad830acc73','2017-03-25 02:17:07','2017-03-25 02:17:07','3290a4ef-4241-4fa5-843e-87926c74e384','df668e22-e344-4c89-a050-e5ad211cbaa6','This was a superb catch- great value for the fee. It was the perfect place to relax. The neighborhood is beautiful and calm, and it is very easy to get around Tempe from this spot. Carlos has his hospitality game together - you would think he took a course.'),
+
+  ('ffec053e-cc6a-4802-8bbf-1b5d078a0c92','2017-03-25 02:17:07','2017-03-25 02:17:07','279b355e-ff9a-4b85-8114-6db7ad2a4cd2','70b18dcc-08ef-4040-91cf-4075973d320a','The location is great with mass transportation available within a short walking distance. The room is private and very cozy. Ryan was alway available for all the restaurant questions I had! ')
+
+;
 
 					  
 
